@@ -119,6 +119,16 @@ body{
     width: 30px;
     height: 30px;
     margin: 0;
+    padding-left: 5%;
+  }
+
+  .ajouter:hover{
+    color: black;
+    border: solid rgba(253, 249, 249, 0.575) 1px;
+  }
+
+  .delete:hover{
+    color: black;
   }
 
   /* REPSONSIVE  REPSONSIVE REPSONSIVE REPSONSIVE REPSONSIVE REPSONSIVE REPSONSIVE REPSONSIVE REPSONSIVE*/
