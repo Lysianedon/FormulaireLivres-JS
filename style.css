@@ -120,6 +120,7 @@ body{
     height: 30px;
     margin: 0;
     padding-left: 5%;
+    
   }
 
   .ajouter:hover{
@@ -147,6 +148,10 @@ body{
       background-size: center/cover;
       padding-bottom: 1%;
       padding-top: 1%;
+    }
+
+    tr{
+      background-color: rgb(253, 249, 249);
     }
 
   }
