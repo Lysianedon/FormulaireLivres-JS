@@ -73,7 +73,9 @@ class Interface {
 
         if(target.className === "delete") {
 
+            const livresupprime = new Book();
             target.parentElement.parentElement.remove();
+            livresupprime.showAlert("Livre supprimé !", "notifsuppr");
         }
     }
 }
